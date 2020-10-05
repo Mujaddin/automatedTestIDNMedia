@@ -50,11 +50,15 @@ WebUI.verifyElementVisible(findTestObject('media_component', [('text') : 'Reject
 
 WebUI.verifyElementVisible(findTestObject('media_component', [('text') : 'Redeem History']))
 
+'And I see Event & Promo'
 WebUI.verifyElementPresent(findTestObject('panel', [('title') : 'Event & Promo']), 0)
 
+'And I see Jumlah Point'
 WebUI.verifyElementPresent(findTestObject('panel', [('title') : 'Jumlah Point']), 0)
 
+'And I see Badge and reward'
 WebUI.verifyElementPresent(findTestObject('panel', [('title') : 'Badge and reward']), 0)
 
+'And I see Total View'
 WebUI.verifyElementPresent(findTestObject('panel', [('title') : 'Total View']), 0)
 
