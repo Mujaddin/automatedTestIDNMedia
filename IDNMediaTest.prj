@@ -6,6 +6,7 @@
    <UUID>0f7f3e6c-96a6-4e50-8830-b534b9ed0c38</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/mjamaluddin/Katalon Studio/IDNMediaTest/IDNMediaTest.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
